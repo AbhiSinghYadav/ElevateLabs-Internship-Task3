@@ -50,7 +50,7 @@ This project showcases an interactive Power BI dashboard built using a financial
 ## 📎 How to Use
 
 1. Clone or download the repository
-2. Open `Adidas_US_Sales.pbix` in Power BI Desktop
+2. Open `Adidas_US_Sales_Dashboard.pbix` in Power BI Desktop
 3. Explore the dashboard by applying slicers and interacting with visuals
 
 ---
